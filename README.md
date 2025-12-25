@@ -4,6 +4,7 @@
 <p>and somewhat pseudo-coder i know gnu/linux shell scripting and html</p>
 <p>any support would be appreciated</p>
 <p>ps: the link below is my old site i did years ago i think 2017</p>
+<p>This one is https://nosferatu-dracula.github.io/VideoEditorSite/</p>
 <br><br><br><br><br><br>
 <h1>This is old</h1>
 <p>
